@@ -1,3 +1,3 @@
 # Embedded-Projects
 
-These projects are a refrences of effort and work done by Kareem.
+These Projects are refrences of effort and work done by Kareem.
