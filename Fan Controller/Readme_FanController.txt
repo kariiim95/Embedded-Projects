@@ -1,0 +1,11 @@
+The Project concept is to control fan according to sensed temperature from Sensor.
+The LM35 Temp. Sensor will continuous give analog output corresponding to temperature value. 
+These analog signals will be converted to digital values by ADC drivers.
+According to corresponding value of Temp. the motor will rotate with diver speed and direction.
+Final value will be passed to LCD Drivers.
+Project Applied Lay Architecture model such as: APP, Hardware Abstraction Layer (HAL) and Microcontroller Abstraction Layer (MCAL). 
+Drivers Implemented by User:
+HAL Drivers: LCD Driver , Sensor Driver , DC-motor Driver 
+MCAL Drivers: GPIO Drivers, ADC Drivers, PWM Drivers. 
+
+***********************************THE END*****************************
